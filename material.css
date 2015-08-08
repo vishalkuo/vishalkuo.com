@@ -9293,7 +9293,9 @@ _:-ms-input-placeholder, :root .mdl-slider.mdl-slider.is-upgraded {
       -ms-flex-align: stretch;
           align-items: stretch; }
   .mdl-grid.mdl-grid--no-spacing {
-    padding: 0; }
+    padding: 0;
+      margin-bottom: 3%;
+  }
 
 .mdl-cell {
   box-sizing: border-box; }
