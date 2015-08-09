@@ -11,3 +11,12 @@ a {
     font-weight: bold;
     text-decoration: none;
 }
+
+.left-text{
+    text-align: center;
+
+}
+
+.mdl-layout__header-row{
+    padding-left: 3%;
+}

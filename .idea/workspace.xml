@@ -2,6 +2,94 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19a0b33a-d53c-4fcc-8226-af6d4aba2c74" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/android-desktop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/app-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/button_degradation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/clippy.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/codepen-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/codepen.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/colors.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/comp_badges.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/comp_buttons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/comp_cards.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/comp_layout.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/comp_loading.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/comp_menus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/comp_sliders.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/comp_tables.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/comp_textfields.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/comp_toggles.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/comp_tooltips.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/compindex.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/compindex_2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/components.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/components.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/components.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/components.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/components_2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/components_mo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/customize.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/customize.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/customize_2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/customize_mo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/customizer.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/customizer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/customizer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/demos/dog.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/demos/image_card.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/demos/transparent.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/demos/welcome_card.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/github_white_24.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/google-services.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/header_2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ie.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/ios-desktop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/mo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/prism-bash.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/prism-css.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/prism-default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/prism-javascript.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/prism-markup.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/prism.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/rich-media-gallery.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/shapes.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sliders_degradation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/snippets.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/styles.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/styles.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/styles_2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/styles_mo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/swfobject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/table_degradation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/template-preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/android-dot-com.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/android-dot-com_2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/article.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/article_2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/blog.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/blog_2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/dashboard.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/dashboard_2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/general.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/general_2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/product.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/product_2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/text-only.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/text-only_2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates_2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates_mo.svg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/index.html" afterPath="$PROJECT_DIR$/home/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/styles.css" afterPath="$PROJECT_DIR$/home/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -28,31 +116,9 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.32608697">
+              <caret line="89" column="65" selection-start-line="89" selection-start-column="65" selection-end-line="89" selection-end-column="65" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="material.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/material.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6876" column="42" selection-start-line="6876" selection-start-column="27" selection-end-line="6876" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="material.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/material.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3385" column="36" selection-start-line="3385" selection-start-column="36" selection-end-line="3385" selection-end-column="36" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -61,7 +127,7 @@
         <entry file="file://$PROJECT_DIR$/home/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -246,23 +312,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="833" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32984293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -472,14 +538,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/material.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6876" column="42" selection-start-line="6876" selection-start-column="27" selection-end-line="6876" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/material.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -493,15 +551,23 @@
     <entry file="file://$PROJECT_DIR$/home/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.936543">
+          <caret line="6876" column="30" selection-start-line="6876" selection-start-column="27" selection-end-line="6876" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.32608697">
+          <caret line="89" column="65" selection-start-line="89" selection-start-column="65" selection-end-line="89" selection-end-column="65" />
           <folding />
         </state>
       </provider>
