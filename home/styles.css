@@ -61,6 +61,7 @@ html, body {
 .mdl-demo main > .mdl-layout__tab-panel {
   padding: 8px;
   padding-top: 48px;
+  background-color: #F5F5F5;
 }
 .mdl-demo .mdl-card {
   height: auto;
@@ -118,6 +119,7 @@ html, body {
 .mdl-demo .mdl-layout__content section:not(:last-of-type) {
   position: relative;
   margin-bottom: 48px;
+
 }
 .mdl-demo section.section--center {
   max-width: 860px;
@@ -219,7 +221,7 @@ html, body {
   margin-bottom: 24px;
 }
 .mdl-demo .mdl-layout__tab-panel:not(#overview) {
-  background-color: white;
+  background-color: #F5f5f5;
 }
 .mdl-demo #features section {
   margin-bottom: 72px;
