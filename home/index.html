@@ -60,7 +60,7 @@
         <a href="#fixed-tab-1" class = "mdl-layout__tab">Contact</a>
       </div>
     </header>
-    <main class="mdl-layout__content">
+    <main class="mdl-layout__content" ng-app = "app">
       <section class="mdl-layout__tab-panel is-active" id="About">
         <div class="page-content" id = "one">
           <div class="mdl-grid center-div mdl-color--white">
@@ -103,7 +103,7 @@
          </div>
         </div>
       </section>
-      <section class="mdl-layout__tab-panel" id="Projects">
+      <section class="mdl-layout__tab-panel" id="Projects" ng-controller="cardController">
         <div class="page-content">
             <div class="mdl-grid center-div">
             <div class="mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet"></div>
@@ -174,5 +174,8 @@
   </div>
 
     <script src="../material.js"></script>
+    <script src = "assets/repos.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+  <script src="controllers/controller.js"></script>
   </body>
 </html>
