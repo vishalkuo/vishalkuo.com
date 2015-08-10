@@ -5,7 +5,7 @@ app.controller('cardController', ['$scope', function($scope){
         for (header in data[repo]['headers']){
             aboutObj = data[repo]['headers'][header]
             if (aboutObj['header'] === "About"){
-                data[repo]['about'] = aboutObj['textgi']
+                data[repo]['about'] = aboutObj['text']
             }
         }
     }
