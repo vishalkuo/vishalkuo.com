@@ -28,6 +28,7 @@ a {
 .demo-card-square.mdl-card {
     width: 320px;
     height: 320px;
+    margin: auto;
 }
 
 .demo-card-square > .mdl-card__title {
