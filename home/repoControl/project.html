@@ -54,31 +54,27 @@
         </div>
     </header>
     <main class="mdl-layout__content">
-        <section class="mdl-layout__tab-panel is-active" id="About">
-            <div class="page-content" id = "one">
-                <div class="mdl-grid center-div mdl-color--white">
+        <section class="mdl-layout__tab-panel is-active" ng-app = "repoApp">
+            <div class="page-content" id = "one" ng-controller="repoController">
+                <div class="mdl-grid center-div" >
                     <div class="mdl-cell mdl-cell--4-col mdl-cell--6-col-tablet left-text">
-                        <h3>Welcome</h3>
+                        <h3>{{ repo.title }}</h3>
                     </div>
                     <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet"></div>
                     <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet"></div>
                 </div>
-                <div class="mdl-grid center-div mdl-color--white">
+                <div class="mdl-grid center-div">
                     <div class="mdl-cell mdl-cell--3-col mdl-cell--8-col-tablet"></div>
                     <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet">
-                        <p>Hi there. I'm Vishal Kuo, a second year electrical engineering student at the
-                            <a href = "https://uwaterloo.ca/">University of Waterloo</a>. My interests include full-stack development,
-                            npm development, the internet of things, and developer tools. You'll find more information under my projects and experience
-                            pages. For a concise overview, check out my resume.</p>
+                        <p>{{ about.text }}</p>
                     </div>
                     <div class="mdl-cell mdl-cell--3-col mdl-cell--8-col-tablet"></div>
                 </div>
-                <div class="mdl-grid mdl-color--white center-div">
+                <div class="mdl-grid center-div">
                     <div class="mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet"></div>
                 </div>
                 <div class="mdl-grid center-div">
                     <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet left-text">
-                        <h3>Links</h3>
                     </div>
                     <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet"></div>
                     <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet"></div>
