@@ -12,5 +12,8 @@ repoApp.controller('repoController', ['$scope', function($scope){
         if ($scope.repo['headers'][obj].header === 'About'){
             $scope.about = $scope.repo['headers'][obj]
         }
+        if ($scope.repo['headers'][obj].header === 'Technologies'){
+            $scope.technologies = $scope.repo['headers'][obj]
+        }
      }
 }])

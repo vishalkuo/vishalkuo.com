@@ -40,3 +40,13 @@ a {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+.fixed-button{
+    position: fixed;
+    bottom: 15%;
+    right: 5%;
+}
+
+.repoFormat {
+    text-align: left;
+}
