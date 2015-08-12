@@ -58,13 +58,17 @@
             <div class="page-content" id = "one" ng-controller="repoController">
                 <div class="mdl-grid center-div" >
                     <div class="mdl-cell mdl-cell--4-col mdl-cell--6-col-tablet mdl-cell--4-col-phone left-text">
-                        <h3 class="demo-wrapper">{{ repo.title }}</h3>
+                        <h3>{{ repo.title }} </h3>
                     </div>
                     <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet"></div>
-                    <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet"></div>
+                    <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet">
+
+                    </div>
                 </div>
                 <div class="mdl-grid center-div">
-                    <div class="mdl-cell mdl-cell--3-col mdl-cell--8-col-tablet"></div>
+                    <div class="mdl-cell mdl-cell--3-col mdl-cell--8-col-tablet left-text">
+                        {{ dates.text }}
+                    </div>
                     <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-cell--4-col-phone">
                         <p class='repoFormat'>{{ about.text }}</p>
                     </div>
