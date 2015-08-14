@@ -44,7 +44,6 @@
     <link rel="stylesheet" href="css/styles.css">
   </head>
   <body class="mdl-demo mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">
-  <!-- Simple header with fixed tabs. -->
   <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header
             mdl-layout--fixed-tabs">
     <header class="mdl-layout__header">
@@ -56,15 +55,15 @@
       <div class="mdl-layout__tab-bar mdl-js-ripple-effect">
         <a href="#About" class="mdl-layout__tab is-active">About</a>
         <a href="#Projects" class="mdl-layout__tab">Projects</a>
-        <a href="#fixed-tab-3" class="mdl-layout__tab">Experience</a>
-        <a href="#fixed-tab-1" class = "mdl-layout__tab">Contact</a>
+        <a href="#Experience" class="mdl-layout__tab">Experience</a>
+        <a href="#Contact" class = "mdl-layout__tab">Contact</a>
       </div>
     </header>
     <main class="mdl-layout__content" ng-app = "app">
       <section class="mdl-layout__tab-panel is-active" id="About">
         <div class="page-content" id = "one">
           <div class="mdl-grid center-div mdl-color--white">
-            <div class="mdl-cell mdl-cell--4-col mdl-cell--6-col-tablet left-text">
+            <div class="mdl-cell mdl-cell--4-col mdl-cell--6-col-tablet center-text">
               <h3>Welcome</h3>
             </div>
             <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet"></div>
@@ -84,7 +83,7 @@
             <div class="mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet"></div>
         </div>
             <div class="mdl-grid center-div">
-                <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet left-text">
+                <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet center-text">
                     <h3>Links</h3>
                 </div>
                 <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet"></div>
@@ -124,11 +123,47 @@
         </div>
             </div>
       </section>
-      <section class="mdl-layout__tab-panel" id="Experience">
-        <div class="page-content"><!-- Your content goes here --></div>
+      <section class="mdl-layout__tab-panel" id="Experience" ng-controller="experienceController">
+        <div class="page-content">
+            <div class="mdl-grid center-div">
+                <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet center-text">
+                    <h3>Experience</h3>
+                </div>
+                <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet">
+
+                </div>
+                <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet"></div>
+                <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet">
+                    <h5 class="center-text">Toast Inc.</h5>
+                </div>
+                <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet">
+                    <p class="mdl-typography--font-bold pHeader">Automation and Full Stack Developer</p>
+                </div>
+                <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet"></div>
+                <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet">
+                </div>
+                <div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet">
+                    <ul class="bodyUl">
+                        <li>Substantially improved testing coverage by raising the automation script count over 4 times original amount </li>
+                        <li>Improved overall build process and testing framework to raise build speed by 25%</li>
+                        <li>Promoted to full stack developer halfway through term</li>
+                        <li>Designed data generation tools and import/export features to improve modelling, presentation, and handling of data</li>
+                    </ul>
+                </div>
+                <div class="mdl-cell mdl-cell--2-col mdl-cell--8-col-tablet"></div>
+            </div>
+        </div>
       </section>
       <section class="mdl-layout__tab-panel" id="Contact">
-        <div class="page-content"><!-- Your content goes here --></div>
+        <div class="page-content">
+            <div class="mdl-grid center-div">
+                <div class="mdl-cell mdl-cell--4-col mdl-cell--6-col-tablet center-text">
+                    <h3>Contact</h3>
+                </div>
+                <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet"></div>
+                <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet"></div>
+            </div>
+        </div>
       </section>
     </main>
       <footer class="mdl-mini-footer">

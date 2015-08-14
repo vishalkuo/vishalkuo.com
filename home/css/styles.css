@@ -12,9 +12,8 @@ a {
     text-decoration: none;
 }
 
-.left-text{
+.center-text {
     text-align: center;
-
 }
 
 .mdl-layout__header-row{
@@ -49,4 +48,22 @@ a {
 
 .repoFormat {
     text-align: left;
+}
+
+.pHeader {
+    margin-top: 24px;
+    text-align: left;
+}
+
+.bodyUl {
+    margin-top: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+    vertical-align: top;
+    padding-top: 0px;
+    text-align: left;
+}
+
+.bodyUl li{
+    list-style: inside;
 }

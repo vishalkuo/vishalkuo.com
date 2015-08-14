@@ -10,3 +10,7 @@ app.controller('cardController', ['$scope', function($scope){
         }
     }
 }])
+
+app.controller('experienceController', ['$scope', function($scope){
+
+}])
