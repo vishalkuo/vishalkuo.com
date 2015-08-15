@@ -66,4 +66,6 @@ a {
 
 .bodyUl li{
     list-style: inside;
+    margin-left: 0;
+    text-indent: -1em;
 }
