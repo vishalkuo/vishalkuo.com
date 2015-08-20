@@ -1,7 +1,7 @@
 /**
  * Created by vishalkuo on 15-08-19.
  */
-var gulp = require('gulp'), minifyHTML = require('gulp-minify-html'), minifyCss = require('gulp-minify-css')
+var gulp = require('gulp'), uglify = require('gulp-uglify'), minifyHTML = require('gulp-minify-html'), minifyCss = require('gulp-minify-css')
 
 gulp.task('controllers', function(){
     gulp.src('./home/controllers/*.js')
