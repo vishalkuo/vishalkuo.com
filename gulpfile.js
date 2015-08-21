@@ -2,7 +2,7 @@
  * Created by vishalkuo on 15-08-19.
  */
 var gulp = require('gulp'), uglify = require('gulp-uglify'), minifyHTML = require('gulp-minify-html'), minifyCss = require('gulp-minify-css')
-rename = require('gulp-rename'), nodemon = require('gulp-nodemon'), exec = require('gulp-exec')
+rename = require('gulp-rename'), nodemon = require('gulp-nodemon'), exec = require('gulp-exec'), runSequence = require('run-sequence')
 
 gulp.task('controllers', function(){
     gulp.src('./home/controllers/*.js')
@@ -42,16 +42,14 @@ gulp.task('pipe-scrubber', function(){
     gulp.src('./gs_build')
         .pipe(exec('> ./gs_build/out.js'))
         .pipe(exec('node ./gs_build/scrub.js >> ./gs_build/out.js'))
-})
-
-gulp.task('move', function(){
     gulp.src('./gs_build/out.js')
         .pipe(rename('repos.js'))
-        .pipe(gulp.dest('./home/assets'))
+        .pipe(gulp.dest('./home/assets/'))
 })
 
-gulp.task('scrub', ['backup-repos', 'pipe-scrubber', 'move'], function(){
 
+gulp.task('scrub', function(){
+    runSequence('backup-repos', 'pipe-scrubber')
 })
 
 gulp.task('default', ['controllers', 'minify-html', 'minify-css', 'assets'], function(){
