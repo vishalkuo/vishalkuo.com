@@ -7,3 +7,5 @@ material.min.css
 material.css
 *.map
 secret.js
+.idea/
+
