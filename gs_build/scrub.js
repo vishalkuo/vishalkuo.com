@@ -28,7 +28,7 @@ gitscrub.authenticate(secret.username, secret.password, function(){
                 'StarRush']})
             gitscrub.scrubADubDub(secret.username, secret.password, ['select'], function(result, err){
                 gitscrub.customSort(result, function(done){
-                    console.log(done)
+                    console.log(JSON.stringify(done,null, 1))
                 })
             })
         })
