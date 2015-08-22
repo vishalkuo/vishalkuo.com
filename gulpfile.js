@@ -48,7 +48,7 @@ gulp.task('pipe-scrubber', function(){
 })
 
 
-gulp.task('scrub', function(){
+gulp.task('scrub-dev', function(){
     runSequence('backup-repos', 'pipe-scrubber')
 })
 
