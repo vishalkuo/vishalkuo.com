@@ -39,7 +39,7 @@ gulp.task('backup-repos', function(){
 })
 
 gulp.task('pipe-scrubber', function(){
-    gulp.src('./gs_build')
+    gulp.src('./gs_build/')
         .pipe(exec('> ./gs_build/out.js'))
         .pipe(exec('node ./gs_build/scrub.js >> ./gs_build/out.js'))
     gulp.src('./gs_build/out.js')
