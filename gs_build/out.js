@@ -95,7 +95,15 @@ data = [
     "jotNotes": [
      "[Jerry Wang](https://github.com/yisenjerrywang)",
      "[Chris Grandoit](https://twitter.com/cgrandoit) (for inspiration)",
-     "Vishal Kuo"
+     "Vishal Kuo",
+     ""
+    ]
+   },
+   {
+    "header": "Milstones",
+    "text": "",
+    "jotNotes": [
+     "479 Downloads: Aug 21, 2015"
     ]
    }
   ]
