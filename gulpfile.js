@@ -52,5 +52,5 @@ gulp.task('scrub-dev', function(){
     runSequence('backup-repos', 'pipe-scrubber')
 })
 
-gulp.task('default', ['controllers', 'minify-html', 'minify-css', 'assets'], function(){
+gulp.task('default', ['controllers', 'minify-html', 'minify-css'], function(){
 })
