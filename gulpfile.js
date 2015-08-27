@@ -32,6 +32,12 @@ gulp.task('minify-css', function(){
         .pipe(gulp.dest('./dist/css'))
 })
 
+gulp.task('minify-js', function(){
+    gulp.src('./home/js/routes.js')
+        .pipe(uglify())
+        .pipe(gulp.dest('./dist/js/'))
+})
+
 gulp.task('backup-repos', function(){
     gulp.src('./home/assets/repos.js')
         .pipe(rename('repos.backup.js'))
@@ -51,6 +57,7 @@ gulp.task('pipe-scrubber', function(){
 gulp.task('scrub-dev', function(){
     runSequence('backup-repos', 'pipe-scrubber')
 })
+
 
 gulp.task('default', ['controllers', 'minify-html', 'minify-css'], function(){
 })
