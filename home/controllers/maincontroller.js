@@ -12,5 +12,4 @@ app.controller('cardController', ['$scope', function($scope){
             }
         }
     }
-
 }])
