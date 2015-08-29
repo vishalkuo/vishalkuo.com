@@ -1,0 +1,71 @@
+.center-div{
+    margin: auto;
+    text-align: center;
+}
+
+.center-div.mdl-cell{
+    text-align: center;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.mdl-layout__header-row{
+    padding-left: 3%;
+}
+
+.wide-mdl-card{
+    width: 512px;
+}
+
+.demo-card-square.mdl-card {
+    width: 320px;
+    height: 320px;
+    margin: auto;
+}
+
+.demo-card-square > .mdl-card__title {
+    color: #fff;
+    background: bottom right 15% no-repeat #46B6AC;
+}
+
+.mdl-card-custom{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.fixed-button{
+    position: fixed;
+    bottom: 15%;
+    right: 5%;
+}
+
+.repoFormat {
+    text-align: left;
+}
+
+.pHeader {
+    margin-top: 24px;
+    text-align: left;
+}
+
+.bodyUl {
+    margin-top: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+    vertical-align: top;
+    padding-top: 0px;
+    text-align: left;
+}
+
+.bodyUl li{
+    list-style: inside;
+    margin-left: 0;
+    text-indent: -1em;
+}
