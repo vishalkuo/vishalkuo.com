@@ -9,6 +9,7 @@ repoApp.controller('repoController', ['$scope', function($scope){
     }
 
     for (obj in $scope.repo['headers']){
+        console.log($scope.repo['headers'][obj])
         if ($scope.repo['headers'][obj].header === 'About'){
             $scope.about = $scope.repo['headers'][obj]
         }
@@ -17,6 +18,11 @@ repoApp.controller('repoController', ['$scope', function($scope){
         }
         if ($scope.repo['headers'][obj].header === "Dates"){
             $scope.dates = $scope.repo['headers'][obj]
+        }
+
+        if ($scope.repo['headers'][obj].header === "Links"){
+
+            $scope.links = $scope.repo['headers'][obj]
         }
      }
 }])
