@@ -149,11 +149,8 @@ data = [
    },
    {
     "header": "Links",
-    "text": "",
-    "jotNotes": [
-     "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=998402366&mt=8",
-     "https://play.google.com/store/apps/details?id=pastedump.vishalkuo.com.pastedump"
-    ]
+    "text": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=998402366&mt=8https://play.google.com/store/apps/details?id=pastedump.vishalkuo.com.pastedump",
+    "jotNotes": []
    }
   ]
  },

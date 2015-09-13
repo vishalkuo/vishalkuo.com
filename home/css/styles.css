@@ -69,3 +69,7 @@ a {
     margin-left: 0;
     text-indent: -1em;
 }
+
+.linkFormat a{
+    color: black;
+}
