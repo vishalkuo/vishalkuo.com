@@ -27,7 +27,7 @@ data = [
                 "header": "Links",
                 "text": "",
                 "jotNotes": [
-                    "http://www.futuresrevealed.ca ",
+                    "http://www.futuresrevealed.ca",
                     "https://play.google.com/store/apps/details?id=vishalkuo.com.futuresrevealed",
                     "https://itunes.apple.com/us/app/futures-revealed/id1016694641?mt=8"
                 ]
@@ -294,7 +294,7 @@ data = [
         "title": "dinnerBell",
         "headers": [
             {
-                "header": "About ",
+                "header": "About",
                 "text": "Dinner bell is a one page webpage application designed to allow students living on residence to vote on a common dinner time to ensure everyone can eat together. This application was designed using HTML, CSS, PHP, and mySQL as my first attempt at backend development.",
                 "jotNotes": []
             },
