@@ -18,20 +18,23 @@
             font-size: 70px;
         }
 
-        html, body{
-            height: 100%;
-            margin: 0;
-            padding: 0;
-            width: 100%
-        }
-
-        body{
-            display: table;
-        }
         .my-block {
             text-align: center;
-            display: table-cell;
-            vertical-align: middle;
+        }
+        .links-parent{
+            text-align: center;
+        }
+        .links{
+            margin-left: 20px;
+            margin-right: 20px;
+            padding-left: 10px;
+            padding-right: 10px;
+            font-family: schola;
+            color: black;
+            border: 3px solid black;
+        }
+        .links:link{
+            text-decoration: none;
         }
     </style>
 </head>
@@ -41,5 +44,10 @@
 <h1 class="my-block">
     Vishal Kuo
 </h1>
+<div class="links-parent">
+    <a class="links" href="#">Resume</a>
+    <a class="links" href="http://github.com/vishalkuo">Github</a>
+    <a class="links" href="http://ca.linkedin.com/in/   vishalkuo">LinkedIn</a>
+</div>
 </body>
 </html>
